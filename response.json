@@ -1,0 +1,47 @@
+{
+  "status": 200,
+  "message": "OK",
+  "dData": {
+    "userDeviceData": {
+      "sub_key": "55lg-t28v-za5l-4h2v",
+      "success": true,
+      "validate": {
+        "is_pro": true,
+        "end_date": "2024-10-31T00:00:00.000Z",
+        "sk_licence_key": "55lg-t28v-za5l-4h2v",
+        "day_remaining": 3,
+        "life_time": false
+      },
+      "is_subscription": true,
+      "plan_type": "Premium",
+      "sub_email": "example@gmail.com",
+      "skey": "55lg-t28v-za5l-4h2v",
+      "device_data": {
+        "skd_id": 26444,
+        "skd_fk_sk_id": 6433,
+        "skd_device_id": "MTcyOTkyMzIyMjE5Ny0xenB0dTRnNA==",
+        "skd_wa_no": "919227780446",
+        "skd_config": null,
+        "skd_archive": false,
+        "skd_created_at": "2024-04-07T09:50:14.619157+00:00",
+        "skd_modified_at": "2024-04-07T09:50:14.619157+00:00",
+        "skd_device_name": "WA-605",
+        "skd_removed_at": null,
+        "skd_removed_manual": false,
+        "skd_removed_manual_at": null,
+        "skd_build_version": "1.0.6"
+      }
+    },
+    "userkeyuniquedata": {
+      "licence_key": "55lg-t28v-za5l-4h2v",
+      "uniqueId": "MTcyOTkyMzIyMjE5Ny0xenB0dTRnNA==",
+      "version": "1.0.6"
+    },
+    "userPurchaseStatus": "PREMIUM"
+  }
+}
+
+
+https://app.lotsofwms.in/api/validategpt.php?unique_id=MTcyOTkyMzIyMjE5Ny0xenB0dTRnNA%3D%3D&phone=919227780446&license=55lg-t28v-za5l-4h2v&reseller_id=undefined
+header chhe upar nu
+
